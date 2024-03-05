@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Portfolio</title>
+    <style>
+        body {
+            font-family: Calibri;
+            font-size: 30pt;
+            text-align: center;
+            background-image: url('test.jpg');
+             
+            
+           }
+
+        h1 {
+            font-family: Arial, sans-serif;
+           }
+
+        b {
+            font-style: italic;
+          }
+       
+        img {
+            width: 40%;
+            display: block;
+            
+        }
+      
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="test.jpg" >
+        </header>
+
+        <h1>CLAVACIO, CLIVE FRANCIS M.</h1>
+        <b>Personal Profile <p>Hello!!! My name is Clive. I adore exploring new destinations and reveling in the thrill of driving my cars. However, above all, the most cherished, delightful, and beloved presence in my life is undoubtedly my girl! </p></b>
+        <img src="test.jpg" >
+    </div>
+</body>
+</html>
